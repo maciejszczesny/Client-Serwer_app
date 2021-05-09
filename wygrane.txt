@@ -1,0 +1,2 @@
+Ilosc trafien 3 dla zestawu liczb 2,6,9,4,6,8
+Ilosc trafien 3 dla zestawu liczb 1,2,3,6,9,10
