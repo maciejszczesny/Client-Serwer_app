@@ -1,2 +1,14 @@
 Ilosc trafien 3 dla zestawu liczb 2,6,9,4,6,8
 Ilosc trafien 3 dla zestawu liczb 1,2,3,6,9,10
+Ilosc trafien 0 dla zestawu liczb 41,3,4,37,14,35
+Ilosc trafien 0 dla zestawu liczb 7,4,15,23,2,3
+Ilosc trafien 1 dla zestawu liczb 27,17,2,12,1,19
+Ilosc trafien 1 dla zestawu liczb 43,13,24,42,9,48
+Ilosc trafien 1 dla zestawu liczb 43,2,24,1,14,38
+Ilosc trafien 0 dla zestawu liczb 15,4,40,3,18,38
+Ilosc trafien 1 dla zestawu liczb 22,6,4,42,13,5
+Ilosc trafien 1 dla zestawu liczb 49,40,1,43,2,46
+Ilosc trafien 1 dla zestawu liczb 27,13,34,40,26,38
+Ilosc trafien 0 dla zestawu liczb 27,45,24,16,46,17
+Ilosc trafien 2 dla zestawu liczb 8,45,19,32,20,18
+Ilosc trafien 1 dla zestawu liczb 10,26,30,6,33,48
